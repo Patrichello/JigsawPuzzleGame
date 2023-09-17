@@ -1,6 +1,6 @@
 # JigsawPuzzleGame
 
-![Game Screenshot](Screenshot 1.png)
+![Game Screenshot](Screenshot1.png)
 
 Puzzle Puzzle is an entertaining and engaging puzzle game developed in Unity. It offers a unique experience where players can choose from a variety of images and break them into small, challenging puzzle pieces. Your objective is to reassemble the pieces correctly to reveal the original image. 
 
